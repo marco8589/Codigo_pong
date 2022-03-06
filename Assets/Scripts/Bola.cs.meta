@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 295f72230498cfa4da14bfdc394f2855
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ContadorIzquierda: {instanceID: 0}
+  - ContadorDerecha: {instanceID: 0}
+  - audioGol: {instanceID: 0}
+  - audioRaqueta: {instanceID: 0}
+  - audioRebote: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
